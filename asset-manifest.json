@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bridge-site/static/css/main.878980a3.css",
-    "main.js": "/bridge-site/static/js/main.6b23fb45.js",
+    "main.js": "/bridge-site/static/js/main.f3021862.js",
     "static/js/453.fa1d77fd.chunk.js": "/bridge-site/static/js/453.fa1d77fd.chunk.js",
     "static/media/heartImage.png": "/bridge-site/static/media/heartImage.cac83b69480347fff6bd.png",
     "static/media/diamondImage.png": "/bridge-site/static/media/diamondImage.818c7434a14d6fc0827b.png",
@@ -9,11 +9,11 @@
     "static/media/clubsImage.png": "/bridge-site/static/media/clubsImage.aa7882ba31b154a50891.png",
     "index.html": "/bridge-site/index.html",
     "main.878980a3.css.map": "/bridge-site/static/css/main.878980a3.css.map",
-    "main.6b23fb45.js.map": "/bridge-site/static/js/main.6b23fb45.js.map",
+    "main.f3021862.js.map": "/bridge-site/static/js/main.f3021862.js.map",
     "453.fa1d77fd.chunk.js.map": "/bridge-site/static/js/453.fa1d77fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.878980a3.css",
-    "static/js/main.6b23fb45.js"
+    "static/js/main.f3021862.js"
   ]
 }
