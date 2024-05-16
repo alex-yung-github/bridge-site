@@ -4,9 +4,12 @@ import React from 'react';
 
 const Home = () => {
   return (
-    <div>
-      <h1>Home Page</h1>
-      <p>Welcome to our React application!</p>
+    <div className = 'pageBodyBed'>
+      <div className = 'pageBodyContainer'>
+        <h1 className='pageHeader'>Home</h1>
+        <p>Bridge club!!!!!</p>
+      </div>
+      
     </div>
   );
 }
