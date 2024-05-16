@@ -37,6 +37,7 @@ function App() {
           
         <Routes>
           <Route index element={<Home />} />
+          <Route path="/bridge-site" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/attendence" element={<Attendence />} />
