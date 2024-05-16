@@ -12,7 +12,7 @@ import {
 import Home from "./pages/home";
 import About from "./pages/about";
 import Contact from "./pages/contact";
-import Attendence from "./pages/attendence"
+import Attendance from "./pages/attendance.js"
 import Resources from "./pages/resources"
 
 import clubsImage from "./clubsImage.png"
@@ -40,7 +40,7 @@ function App() {
           <Route path="/bridge-site" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/attendence" element={<Attendence />} />
+          <Route path="/attendance" element={<Attendance />} />
           <Route path="/resources" element={<Resources />} />
         </Routes>
 
