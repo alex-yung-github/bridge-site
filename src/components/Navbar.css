@@ -15,4 +15,11 @@
     font-size: 20px;
     color: rgb(232, 232, 232);
     font-weight: bold;
+    border: 3px solid transparent;
+    transition: border-color 0.5s ease;
+    padding: 20px;
+}
+
+.navPageLink:hover {
+    border-color: white; 
 }

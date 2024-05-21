@@ -18,3 +18,65 @@
     background-color: rgb(194, 194, 194);
 }
 
+.attendenceForm {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.formGroup {
+    margin-bottom: 15px;
+}
+
+.formLabel {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+
+}
+
+.formInput {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.formSubmit {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.formSubmit:hover {
+    background-color: #45a049;
+  }
+
+.notification {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #dff0d8;
+    color: #3c763d;
+    border: 1px solid #d6e9c6;
+    border-radius: 4px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+  }
+
+.emptyBox {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 21px;
+}
