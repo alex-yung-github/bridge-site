@@ -75,6 +75,19 @@
     font-size: 16px;
   }
 
+  .errorNotification {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #f0d8d8;
+    color: #763c3c;
+    border: 1px solid #e9c6c6;
+    border-radius: 4px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+  }
+
 .emptyBox {
     max-width: 500px;
     margin: 20px auto;
