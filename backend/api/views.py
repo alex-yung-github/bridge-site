@@ -21,7 +21,7 @@ def log_data(request):
         todayDate = date.today()
 
         logInformation = [todayDate, first_name, last_name, computing_ID]
-        with open('AttendenceLog.csv','a', newline='') as log:
+        with open('AttendanceLog.csv','a', newline='') as log:
             writerObject = writer(log)
             writerObject.writerow(logInformation)
             log.close()

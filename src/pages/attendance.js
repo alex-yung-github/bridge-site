@@ -11,8 +11,8 @@ const Attendance = () => {
     event.preventDefault();
 
     const actualDay = new Date();
-    actualDay.setDate(actualDay.getDate() - 3)
-    actualDay.setHours(actualDay.getHours() + 4)
+    actualDay.setDate(actualDay.getDate() - 6)
+    actualDay.setHours(actualDay.getHours() -2)
 
     if(actualDay.getDay() !== 0 && (actualDay.getHours() < 14 || actualDay.getHours() > 16)) {
       setError(true);
